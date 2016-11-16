@@ -6,4 +6,4 @@ The codes are written in Jupyter Notebooks with suffix ipynb. Proctor_NAO_bandwi
 
 To successfully run the codes, these python modules may be necessary: LiPD, nitime, xray, rpy2.
 
-If you encounter problems in running these codes, please fill free to contact Jun Hu (hujun@usc.edu).
+If you encounter problems in running these codes, please feel free to contact Jun Hu (hujun@usc.edu).
